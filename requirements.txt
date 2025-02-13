@@ -1,0 +1,5 @@
+autogen-agentchat
+autogen-ext[azure]
+azure-ai-projects
+tiktoken
+openai
