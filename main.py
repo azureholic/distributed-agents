@@ -11,11 +11,6 @@ from dotenv import load_dotenv
 
 load_dotenv()  # take environment variables from .env.
 
-# Code of your application, which uses environment variables (e.g. from `os.environ` or
-# `os.getenv`) as if they came from the actual environment.
-
-load_dotenv()
-
 azure_openai_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
 aifoundry_project_connectionstring = os.getenv("AIFOUNDRY_PROJECT_CONNECTIONSTRING")
 

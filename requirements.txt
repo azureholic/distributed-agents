@@ -3,3 +3,4 @@ autogen-ext[azure]
 azure-ai-projects
 tiktoken
 openai
+python-dotenv
